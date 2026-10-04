@@ -1,0 +1,18 @@
+# UI
+streamlit>=1.40.0
+
+# RAG
+langchain>=1.0.0
+langchain-openai>=1.0.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# Vector store (CPU; Windows 可用)
+faiss-cpu>=1.9.0
+
+# PDF
+pypdf>=5.0.0
+
+# DashScope 兼容 OpenAI 接口
+openai>=1.50.0
+python-dotenv>=1.0.0
